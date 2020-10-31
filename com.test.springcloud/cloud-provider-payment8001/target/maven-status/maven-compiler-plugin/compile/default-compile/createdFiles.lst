@@ -1,0 +1,7 @@
+com\test\springcloud\entity\CommonResult.class
+com\test\springcloud\PaymentMain8001.class
+com\test\springcloud\controller\PaymentController.class
+com\test\springcloud\dao\PaymentDao.class
+com\test\springcloud\service\PaymentService.class
+com\test\springcloud\entity\Payment.class
+com\test\springcloud\service\impl\PaymentServiceImpl.class
