@@ -1,0 +1,8 @@
+/com.test.springcloud/cloud-provider-payment8004/target/classes/application.yml
+/com.test.springcloud/cloud-eureka-server7002/target/cloud-eureka-server7002-1.0-SNAPSHOT.jar
+/com.test.springcloud/cloud-eureka-server7002/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/com.test.springcloud/cloud-eureka-server7002/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/com.test.springcloud/cloud-eureka-server7002/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/com.test.springcloud/cloud-provider-payment8004/target/classes/com/test/springcloud/controller/PaymentController.class
+/com.test.springcloud/cloud-provider-payment8004/target/classes/com/test/springcloud/PaymentMain8004.class
+/com.test.springcloud/cloud-eureka-server7002/target/maven-archiver/pom.properties
