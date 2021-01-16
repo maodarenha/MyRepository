@@ -1,4 +1,4 @@
-package com.test.springcloud.config1;
+package com.test.springcloud.config;
 
 
 import org.springframework.context.annotation.Bean;
